@@ -1,1 +1,1 @@
-# Finger-classification-convolutional-neural-network
+Convolutional neural network project for finger classification
